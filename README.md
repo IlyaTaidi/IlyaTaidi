@@ -14,5 +14,5 @@ I'm a 25 year old Ukrainian/American web developer.
 - 💽 Firebase, SQL, MySQL
 
 ## Contact
-- [Portfolio Website](https://www.ilyagnezdilov.com)
+- [Portfolio Website](https://www.ilyag.dev)
 - [Ilya#1061](./) on Discord
