@@ -15,4 +15,4 @@ I'm a 25 year old Ukrainian/American web developer.
 
 ## Contact
 - [Portfolio Website](https://www.ilyag.dev)
-- [Ilya#1061](./) on Discord
+- [Ilya#1061] on Discord
