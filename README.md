@@ -8,7 +8,7 @@ I'm,
 I'm a 25 year old Ukrainian/American web developer.
 
 ## Skills
-- 👨‍💻 TypeScript, JavaScript, Python
+- 👨‍💻 TypeScript, JavaScript, Python, C#
 - ⚙️ Svelte/SvelteKit, React/React-Native, Angular, Vue
 - 👁️ SASS, CSS, Less
 - 💽 Firebase, SQL, MySQL
